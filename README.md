@@ -77,3 +77,6 @@ Follow these steps to create a new repository on GitHub:
 Congratulations! You have successfully created a new repository on GitHub and added files to it. You can now continue to manage your repository, collaborate with others, and track your project's progress.
 
 For more detailed information, visit the [GitHub Docs](https://docs.github.com/).
+
+## Video Guide
+You can also checkout a video demonstration on YouTube [YouTube](https://youtu.be/QTRFNgmJQaA).
